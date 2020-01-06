@@ -1,0 +1,9 @@
+event.externalId,set.event.categoryObject,set.event.categoryBehavior,set.event.categoryDeviceGroup,set.event.categorySignificance,set.event.categoryOutcome
+21,/Host/Application/Service/Remote Control,/Access,/Application,/Informational/Warning,/Success
+22,/Host/Application/Service/Remote Control,/Access/Start,/Application,/Informational,/Attempt
+23,/Host/Application/Service/Remote Control,/Access/Stop,/Application,/Informational,/Success
+24,/Host/Application/Service/Remote Control,/Access/Stop,/Application,/Informational,/Success
+25,/Host/Application/Service/Remote Control,/Access,/Application,/Informational/Warning,/Success
+40,/Host/Application/Service/Remote Control,/Access/Stop,/Application,/Informational,/Success
+41,/Host/Application/Service/Remote Control,/Access/Start,/Application,/Informational,/Attempt
+42,/Host/Application/Service/Remote Control,/Access/Stop,/Application,/Informational,/Attempt
