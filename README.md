@@ -8,3 +8,6 @@ Files required to setup RDP monitoring in ArcSight
 `microsoft` folder contains terminalservices_localsessionmanager.csv file, which is the categorizer for the events. This folder and file should be placed in `$ARCSIGHT_HOME\user\agent\acp\categorizer\current\` folder. 
 
 >$ARCSIGHT_HOME is the name of the folder where connector is installed including *current* folder.
+
+This files are supplement for the following post: [Catching successful RDP connections with ArcSight ESM](http://www.ashsecurity.com/siem/windows/arcsight%20esm/operations/rdp/Rule-to-catch-RDP-connection)
+
